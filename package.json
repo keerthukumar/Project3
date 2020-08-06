@@ -9,8 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthukumar/Project3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keerthukumar/Project3/issues"
+  },
+  "homepage": "https://github.com/keerthukumar/Project3#readme",
+  "description": ""
 }
